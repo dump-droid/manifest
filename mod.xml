@@ -19,7 +19,6 @@
   <remove-project name="platform/external/ant-wireless/hidl" />
   <remove-project name="AOSPA/android_external_json-c" />
   <remove-project name="proprietary_vendor_qcom_common" />
-  <remove-project name="AOSPA/android_vendor_qcom-opensource_dataservices" />
   <remove-project name="platform/vendor/qcom-opensource/healthd-ext" />
   <remove-project name="platform/vendor/qcom-opensource/thermal-engine" />
   <remove-project name="AOSPA/android_vendor_qcom-opensource_usb" />
